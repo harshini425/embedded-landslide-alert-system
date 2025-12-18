@@ -46,3 +46,10 @@ Add GNSS for location tagging during alerts
 Use low-power modes for battery operation
 
 Cloud integration for remote monitoring
+## 🔗 Project Simulation Link
+
+- **Wokwi Simulation**: https://wokwi.com/projects/450599241020176385
+## 🧪 Simulation Results
+
+Simulation screenshots are available in the [`simulation`](./simulation) folder.
+
